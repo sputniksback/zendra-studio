@@ -1,4 +1,4 @@
-baseURL = 'https://zendra-studio.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Zendra Studio'
 theme = 'zendra-theme'
