@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zendra Studio</title>
+    <link>http://localhost:57094/</link>
+    <description>Recent content in Home on Zendra Studio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57094/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:57094/privacy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57094/privacy/</guid>
+      <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Last updated: January 1, 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h3&gt;&#xA;&lt;p&gt;We collect information you provide directly to us, such as when you create an account, use our services, or contact us for support. This may include your name, email address, phone number, and any other information you choose to provide.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h3&gt;&#xA;&lt;p&gt;We use the information we collect to provide, maintain, and improve our services, process transactions, send you technical notices and support messages, and communicate with you about products, services, and promotional offers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'https://zendra-studio.com/'
+languageCode = 'en-us'
+title = 'Zendra Studio'
+theme = 'zendra-theme'
